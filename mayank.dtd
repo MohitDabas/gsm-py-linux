@@ -3,13 +3,13 @@
   "responseType": "TRIP_DETAILS",
   "responseData": {
     "levelOfDetail": "FULL",
-    "tripId": "56643d8c-e028-4779-96c3-6b3a507aa160",
-    "webDetailsURL": "https://wwwexpediacom.integration.sb.karmalab.net/trips/790435576563",
-    "itineraryReceiptURL": "https://wwwexpediacom.integration.sb.karmalab.net/itinerary-receipt?tripid=56643d8c-e028-4779-96c3-6b3a507aa160",
-    "tripNumber": 790435576563,
-    "orderNumber": 8115959509651,
+    "tripId": "56643d8c-e028-4779-96c3-6b3a507aa230",
+    "webDetailsURL": "https://www.expedia.com/trips/7904355765",
+    "itineraryReceiptURL": "https://www.expedia.com/itinerary-receipt?tripid=56643d8c-e028-4779-96c3-6b3a507aa230",
+    "tripNumber": 7904355765,
+    "orderNumber": 8115959509,
     "title": "Hotel in Las Vegas",
-    "updateTripNameDescPathURL": "https://wwwexpediacom.integration.sb.karmalab.net/api/trips/56643d8c-e028-4779-96c3-6b3a507aa160/updateTripNameDescription",
+    "updateTripNameDescPathURL": "https://www.expedia.com/api/trips/56643d8c-e028-4779-96c3-6b3a507aa230/updateTripNameDescription",
     "startTime": {
       "raw": "2018-10-10T15:00:00-08:00",
       "localized": "Oct 10, 2018 3:00:00 PM",
@@ -67,18 +67,18 @@
     },
     "ownerId": 6429319,
     "bookingStatus": "BOOKED",
-    "sharableDetailsURL": "https://wwwexpediacom.integration.sb.karmalab.net/api/trips/shared/_uBis4QjTcK6VLC52jPO_8CA9tsX-YPAbA2kEvamTMwk-WO0W-DKTZP776yIKIB-joHcoTkOxNks-uBH-XtdPM-B",
+    "sharableDetailsURL": "https://www.expedia.com/api/trips/shared/_uBis4QjTcK6VLC52jPO_8CA9tsX-YPAbA2kEvamTMwk-WO0W-DKTZP776yIKIB-joHcoTkOxNks-uBH-XtdPM-B",
     "customerSupport": {
       "customerSupportURL": "https://www.expedia.com/service/",
       "customerSupportPhoneInfo": [
         "Call Expedia Rewards gold Dedicated Customer Care at 1-866-539-4149 or 1-702-939-2635.",
-        "For faster service, mention <strong>itinerary #790435576563 </strong>"
+        "For faster service, mention <strong>itinerary #7904355765 </strong>"
       ],
       "customerSupportPhoneNumberDomestic": "+1-866-539-4149",
       "customerSupportPhoneNumberInternational": "+1 702-939-2635",
       "customerSupportPhoneInfoForEmail": [
         "Call Expedia Rewards gold Dedicated Customer Care at 1-866-539-4149 or 1-702-939-2635.",
-        "For faster service, mention <strong>itinerary #790435576563 </strong>"
+        "For faster service, mention <strong>itinerary #7904355765 </strong>"
       ],
       "termsAndConditionsURL": ""
     },
@@ -123,10 +123,10 @@
         "inventorySource": "INTERNAL",
         "paymentModel": "EXPEDIA_COLLECT",
         "inventoryVisibility": "VISIBLE",
-        "orderNumber": "8115959509651",
+        "orderNumber": "8115959509",
         "state": "PRE_START_4",
-        "infositeURL": "https://wwwexpediacom.integration.sb.karmalab.net/itin.h40922.Hotel-Information?langid=1033",
-        "reviewSubmissionURL": "https://wwwexpediacom.integration.sb.karmalab.net/ReviewSubmission?ItinId=790435576563&htid=40922&campaignId=APP.REVIEW.DEEPLINK.URL",
+        "infositeURL": "https://www.expedia.com/itin.h40922.Hotel-Information?langid=1033",
+        "reviewSubmissionURL": "https://www.expedia.com/ReviewSubmission?ItinId=7904355765&htid=40922&campaignId=APP.REVIEW.DEEPLINK.URL",
         "epcConversationURL": "https://www.reddit.com",
         "hotelPropertyInfo": {
           "address": {
@@ -238,7 +238,7 @@
           "roomRequestDisclaimer": "All special requests (such as in-room amenities, bed type, and smoking preference) are shared with the hotel, but requests are not guaranteed and may incur additional charges. We recommend you confirm them directly with the hotel before travel.",
           "dualCurrencyText": "Rate quotes in USD are based on current exchange rates, which may vary at time of travel. Final payment will be settled in local currency directly with the hotel.",
           "refundEligibiltyText": "Free cancellation until October 9 at 10:00 PM (Pacific Daylight Time (US & Canada); Tijuana)",
-          "taxesAndFeesInfo": "What are the Taxes & Service Fees? The taxes are tax recovery charges Expedia pays to its vendors (e.g. hotels); for details, please see our <a href=\"https://wwwexpediacom.integration.sb.karmalab.net/p/info-other/legal.htm\">Terms of Use</a>. We retain our service fees and compensation in servicing your travel reservation."
+          "taxesAndFeesInfo": "What are the Taxes & Service Fees? The taxes are tax recovery charges Expedia pays to its vendors (e.g. hotels); for details, please see our <a href=\"https://www.expedia.com/p/info-other/legal.htm\">Terms of Use</a>. We retain our service fees and compensation in servicing your travel reservation."
         },
         "rooms": [
           {
@@ -253,9 +253,9 @@
             "orderLineNumber": "c3d41671-1fc2-4a39-a1f3-ac06f8a7490d",
             "refundabilityStatus": "REFUNDABLE",
             "availableOnAllDates": true,
-            "roomCancelLink": "https://wwwexpediacom.integration.sb.karmalab.net/hotel-cancel-details?tripid=56643d8c-e028-4779-96c3-6b3a507aa160&ordernumber=8115959509651&orderlineguid=c3d41671-1fc2-4a39-a1f3-ac06f8a7490d&roomNumber=0",
-            "roomChangeLink": "https://wwwexpediacom.integration.sb.karmalab.net/trips/56643d8c-e028-4779-96c3-6b3a507aa160/ordernumber/8115959509651/orderlinenumber/c3d41671-1fc2-4a39-a1f3-ac06f8a7490d/change",
-            "roomChangeLinkForMobileWebView": "https://wwwexpediacom.integration.sb.karmalab.net/trips/56643d8c-e028-4779-96c3-6b3a507aa160/ordernumber/8115959509651/orderlinenumber/c3d41671-1fc2-4a39-a1f3-ac06f8a7490d/change?blockHardChange=true&mobileWebView=true",
+            "roomCancelLink": "https://www.expedia.com/hotel-cancel-details?tripid=56643d8c-e028-4779-96c3-6b3a507aa230&ordernumber=8115959509&orderlineguid=c3d41671-1fc2-4a39-a1f3-ac06f8a7490d&roomNumber=0",
+            "roomChangeLink": "https://www.expedia.com/trips/56643d8c-e028-4779-96c3-6b3a507aa230/ordernumber/8115959509/orderlinenumber/c3d41671-1fc2-4a39-a1f3-ac06f8a7490d/change",
+            "roomChangeLinkForMobileWebView": "https://www.expedia.com/trips/56643d8c-e028-4779-96c3-6b3a507aa230/ordernumber/8115959509/orderlinenumber/c3d41671-1fc2-4a39-a1f3-ac06f8a7490d/change?blockHardChange=true&mobileWebView=true",
             "totalPriceDetails": {
               "primaryCurrencyCode": "USD",
               "base": "56.00",
@@ -313,7 +313,7 @@
               "primaryOccupant": {
                 "firstName": "Expedia",
                 "fullName": "Expedia IMT",
-                "email": "expedia.imt@gmail.com",
+                "email": "a@gmail.com",
                 "phone": "1-234-56782"
               },
               "otherOccupantInfo": {
@@ -432,7 +432,7 @@
             "virtualCurrencyAmountLocalized": "6,644",
             "netWorthOfVirtualCurrencyLocalized": "$47.46",
             "virtualCurrencyRewardsProgramName": "Expedia Rewards",
-            "virtualCurrencyRewardsProgramURL": "https://wwwexpediacom.integration.sb.karmalab.net/user/rewards"
+            "virtualCurrencyRewardsProgramURL": "https://www.expedia.com/user/rewards"
           },
           "virtualPriceRefundedToThisPaymentType": {
             "virtualCurrencyAmount": 0.0,
@@ -446,7 +446,7 @@
             "virtualCurrencyAmountLocalized": "0",
             "netWorthOfVirtualCurrencyLocalized": "$0.00",
             "virtualCurrencyRewardsProgramName": "Expedia Rewards",
-            "virtualCurrencyRewardsProgramURL": "https://wwwexpediacom.integration.sb.karmalab.net/user/rewards"
+            "virtualCurrencyRewardsProgramURL": "https://www.expedia.com/user/rewards"
           },
           "totalPaidPrice": {
             "amount": 47.46,
@@ -483,7 +483,7 @@
     "tripDataSource": "LUNA",
     "isTripUpgradable": false,
     "email": {
-      "m_email": "expedia.imt@gmail.com"
+      "m_email": "a@gmail.com"
     },
     "mipQualifications": [
       {
@@ -494,8 +494,8 @@
           "HOTEL"
         ],
         "itinNums": [
-          "790435576563",
-          "56643d8c-e028-4779-96c3-6b3a507aa160"
+          "7904355765",
+          "56643d8c-e028-4779-96c3-6b3a507aa230"
         ],
         "mipType": "CARMIP",
         "expirationDate": 1539216000000,
