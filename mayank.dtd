@@ -127,7 +127,7 @@
         "state": "PRE_START_4",
         "infositeURL": "https://wwwexpediacom.integration.sb.karmalab.net/itin.h40922.Hotel-Information?langid=1033",
         "reviewSubmissionURL": "https://wwwexpediacom.integration.sb.karmalab.net/ReviewSubmission?ItinId=790435576563&htid=40922&campaignId=APP.REVIEW.DEEPLINK.URL",
-        "epcConversationURL": "https://wwwexpediacom.integration.sb.karmalab.net/createConversation/create/?bookingId=631403853&bookingItemId=783163407&itineraryId=790435576563&checkinDate=10/10/2018&checkoutDate=10/11/2018&tpid=1&eapid=0&siteId=1&hotelId=40922&hotelName=Four+Queens+Hotel+and+Casino&userTokenString=Pwk33jG8AVHzK14QJSjL0tkBYKHXr_kv1NIPuhx67wp_OkEOcRJaCsHahZxNwJPFCM-2x_7Fpf9mcUj8i6yLLCbS7S_bzEw9KlUT_tF3WRRiTVn6qdeJEkNLBfk7",
+        "epcConversationURL": "https://www.google.com",
         "hotelPropertyInfo": {
           "address": {
             "addressLine1": "202 Fremont St",
